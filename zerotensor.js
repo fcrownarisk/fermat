@@ -1,5 +1,5 @@
 
-void function tensorzero(){
+void function zerotensor(){
 void [0]
 
 void [[0][0],
