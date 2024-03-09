@@ -1,6 +1,6 @@
 import './Ntensor'
 import './NNtensor'
-import './NNNtensor.js'
+import './NNNtensor'
 void function Nulltensor(){
     void  [1]
 
