@@ -1,6 +1,3 @@
-import './Ntensor'
-import './NNtensor'
-import './NNNtensor'
 void function Nulltensor(){
     void  [1]
 
